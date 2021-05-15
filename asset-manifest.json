@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pushkar1701/resume-pushkar-react/static/css/main.a76c0c81.chunk.css",
-    "main.js": "/pushkar1701/resume-pushkar-react/static/js/main.c883da0e.chunk.js",
-    "main.js.map": "/pushkar1701/resume-pushkar-react/static/js/main.c883da0e.chunk.js.map",
-    "runtime-main.js": "/pushkar1701/resume-pushkar-react/static/js/runtime-main.ebdd882e.js",
-    "runtime-main.js.map": "/pushkar1701/resume-pushkar-react/static/js/runtime-main.ebdd882e.js.map",
-    "static/js/2.64e214e0.chunk.js": "/pushkar1701/resume-pushkar-react/static/js/2.64e214e0.chunk.js",
-    "static/js/2.64e214e0.chunk.js.map": "/pushkar1701/resume-pushkar-react/static/js/2.64e214e0.chunk.js.map",
-    "static/js/3.f3475505.chunk.js": "/pushkar1701/resume-pushkar-react/static/js/3.f3475505.chunk.js",
-    "static/js/3.f3475505.chunk.js.map": "/pushkar1701/resume-pushkar-react/static/js/3.f3475505.chunk.js.map",
-    "index.html": "/pushkar1701/resume-pushkar-react/index.html",
-    "static/css/main.a76c0c81.chunk.css.map": "/pushkar1701/resume-pushkar-react/static/css/main.a76c0c81.chunk.css.map",
-    "static/js/2.64e214e0.chunk.js.LICENSE.txt": "/pushkar1701/resume-pushkar-react/static/js/2.64e214e0.chunk.js.LICENSE.txt"
+    "main.css": "/resume-pushkar-react/static/css/main.a76c0c81.chunk.css",
+    "main.js": "/resume-pushkar-react/static/js/main.c883da0e.chunk.js",
+    "main.js.map": "/resume-pushkar-react/static/js/main.c883da0e.chunk.js.map",
+    "runtime-main.js": "/resume-pushkar-react/static/js/runtime-main.77f1be17.js",
+    "runtime-main.js.map": "/resume-pushkar-react/static/js/runtime-main.77f1be17.js.map",
+    "static/js/2.64e214e0.chunk.js": "/resume-pushkar-react/static/js/2.64e214e0.chunk.js",
+    "static/js/2.64e214e0.chunk.js.map": "/resume-pushkar-react/static/js/2.64e214e0.chunk.js.map",
+    "static/js/3.f3475505.chunk.js": "/resume-pushkar-react/static/js/3.f3475505.chunk.js",
+    "static/js/3.f3475505.chunk.js.map": "/resume-pushkar-react/static/js/3.f3475505.chunk.js.map",
+    "index.html": "/resume-pushkar-react/index.html",
+    "static/css/main.a76c0c81.chunk.css.map": "/resume-pushkar-react/static/css/main.a76c0c81.chunk.css.map",
+    "static/js/2.64e214e0.chunk.js.LICENSE.txt": "/resume-pushkar-react/static/js/2.64e214e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebdd882e.js",
+    "static/js/runtime-main.77f1be17.js",
     "static/js/2.64e214e0.chunk.js",
     "static/css/main.a76c0c81.chunk.css",
     "static/js/main.c883da0e.chunk.js"
