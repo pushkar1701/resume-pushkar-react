@@ -29,9 +29,9 @@ function Header() {
                         <Nav.Item>
                             <Nav.Link href="#skillset" eventKey="#skillset" title="Skill Set">Skillset</Nav.Link>
                         </Nav.Item>
-                        <Nav.Item>
+                        {/* <Nav.Item>
                             <Nav.Link href="#project" eventKey="#project" title="Projects">Projects</Nav.Link>
-                        </Nav.Item>
+                        </Nav.Item> */}
                         <Nav.Item>
                             <Nav.Link href="#experience" eventKey="#experience" title="Experience">Experience</Nav.Link>
                         </Nav.Item>
